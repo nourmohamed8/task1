@@ -1,0 +1,93 @@
+.container{
+    border: 2px solid rgb(4, 10, 117);
+    border-radius: 20px;
+    background-color: aliceblue;
+    text-align: center;
+    margin: auto;
+    box-shadow: 10px 10px 50px rgb(1, 25, 90);
+    width: 300px;
+}
+.text{
+    width: 300px;
+    text-align: center;
+    font-style: initial;
+}
+.h1{
+    text-align: center;
+    color: rgb(17, 31, 221);
+    font-size: 20px 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.button{
+    background: linear-gradient(rgb(35, 118, 252),rgb(9, 54, 238),rgb(2, 42, 143));
+    border: solid 2px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 50px;
+
+
+
+}
+.container{
+    border: 2px solid rgb(4, 10, 117);
+    border-radius: 20px;
+    background-color: aliceblue;
+    text-align: center;
+    margin: auto;
+    box-shadow: 10px 10px 50px rgb(1, 25, 90);
+    width: 300px;
+}
+.text{
+    width: 300px;
+    text-align: center;
+    font-style: initial;
+    
+}
+.h1{
+    text-align: center;
+    color: rgb(15, 61, 171);
+    font-size: 20px 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.button{
+    background: linear-gradient(rgb(35, 118, 252),rgb(9, 54, 238),rgb(2, 42, 143));
+    border: solid 2px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 50px;
+
+}
+.myimg{
+    border-radius: 10px;
+}
+.both{
+    display: flex;
+    justify-content: space-around;
+}
+.design{
+    text-align: center;
+}
+.table{
+    border: 2px solid rgb(6, 6, 109);
+    border-collapse: collapse;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    margin-top: 5%;
+}
+th{
+    border: 2px solid rgb(6, 6, 109);
+    padding: 10px;
+    background-color: rgb(40, 97, 230);
+}
+thead{
+    border: 2px solid rgb(6, 6, 109);
+
+}
+tbody{
+    border: 2px solid rgb(6, 6, 109);
+    padding: 10px;
+}
+td{
+    border: 2px solid rgb(6, 6, 109);
+    padding: 10px;
+}
